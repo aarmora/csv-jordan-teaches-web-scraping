@@ -1,0 +1,35 @@
+{
+	"name": "csv-jordan-teaches-web-scraping",
+	"version": "1.0.0",
+	"description": "This is a guide on web scrape that focuses on how to save the data collected from web scraping and saving it to a csv. Using javascript and nodejs.",
+	"main": "./dist/index.js",
+	"scripts": {
+		"start": "tsc && node ./dist/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/aarmora/csv-jordan-teaches-web-scraping.git"
+	},
+	"keywords": [
+		"typescript",
+		"web",
+		"scraping",
+		"javascript",
+		"csv-parser"
+	],
+	"author": "Jordan Hansen",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/aarmora/csv-jordan-teaches-web-scraping/issues"
+	},
+	"homepage": "https://github.com/aarmora/csv-jordan-teaches-web-scraping#readme",
+	"dependencies": {
+		"cheerio": "^1.0.0-rc.3",
+		"json2csv": "^4.5.4"
+	},
+	"devDependencies": {
+		"@types/cheerio": "^0.22.14",
+		"@types/json2csv": "^4.5.0",
+		"typescript": "^3.7.2"
+	}
+}
