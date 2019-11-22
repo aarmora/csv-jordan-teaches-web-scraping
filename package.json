@@ -1,7 +1,7 @@
 {
 	"name": "csv-jordan-teaches-web-scraping",
 	"version": "1.0.0",
-	"description": "This is a guide on web scrape that focuses on how to save the data collected from web scraping and saving it to a csv. Using javascript and nodejs.",
+	"description": "This is a guide on web scraping that focuses on how to save the data collected from web scraping and saving it to a csv. Using javascript and nodejs.",
 	"main": "./dist/index.js",
 	"scripts": {
 		"start": "tsc && node ./dist/index.js"
