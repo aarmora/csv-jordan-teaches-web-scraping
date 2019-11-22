@@ -1,6 +1,6 @@
 # Jordan Teaches Web Scraping - Save to CSV 101
 
-This repository goes over the basics of using Cheerio on HTML.
+This repository goes over the basics of using saving data to CSVs.
 
 ## Getting Started
 
