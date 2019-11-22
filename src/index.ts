@@ -60,7 +60,7 @@ const data = {
 
 const csv = json2csv.parse(data);
 
-fs.writeFile('srccc/data.csv', csv, (err) => {
+fs.writeFile('data.csv', csv, (err) => {
 	if (err) {
 		return console.log('an error happened while saving the file', err);
 	}
